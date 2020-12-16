@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ft4232h-mm-breakout)(type KiCad)(uri ${KIPRJMOD}/ft4232h-mm-breakout.pretty)(options "")(descr ""))
+)
